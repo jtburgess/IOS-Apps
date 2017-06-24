@@ -1,0 +1,91 @@
+// !$*UTF8*$!
+{
+	8D93B4B5183923CB0016E3B9 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8DF9EAA8184291DF006472FD /* CardGame */;
+		activeTarget = 8D93B4BC183923CB0016E3B9 /* CardGame */;
+		codeSenseManager = 8DF9EAC6184291FE006472FD /* Code sense */;
+		executables = (
+			8DF9EAA8184291DF006472FD /* CardGame */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 408512886;
+			PBXWorkspaceStateSaveDate = 408512886;
+		};
+		sourceControlManager = 8DF9EAC5184291FE006472FD /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D93B4BC183923CB0016E3B9 /* CardGame */ = {
+		activeExec = 0;
+		executables = (
+			8DF9EAA8184291DF006472FD /* CardGame */,
+		);
+	};
+	8D93B4DD183923CC0016E3B9 /* CardGameTests */ = {
+		activeExec = 0;
+	};
+	8DF9EAA8184291DF006472FD /* CardGame */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CardGame;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8DF9EAC5184291FE006472FD /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8DF9EAC6184291FE006472FD /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
